@@ -1,0 +1,38 @@
+--------------------------------> Running Report <--------------------------------
+Train database:	Data/train/train-features.txt	Data/train/train-labels.txt
+Train result:
+	prob_spam:	0.5
+Test result:
+	numdocs_worng: 5
+	fractions_worng: 0.019230769230769232
+Train time using:	7.884848
+Test time using:	3.070373777777778
+------------------------------------------------------------
+Train database:	Data/train/train-features-50.txt	Data/train/train-labels-50.txt
+Train result:
+	prob_spam:	0.03571428571428571
+Test result:
+	numdocs_worng: 10
+	fractions_worng: 0.038461538461538464
+Train time using:	6.311776888888888
+Test time using:	2.446320888888888
+------------------------------------------------------------
+Train database:	Data/train/train-features-100.txt	Data/train/train-labels-100.txt
+Train result:
+	prob_spam:	0.07142857142857142
+Test result:
+	numdocs_worng: 6
+	fractions_worng: 0.023076923076923078
+Train time using:	6.905438222222223
+Test time using:	2.667456888888889
+------------------------------------------------------------
+Train database:	Data/train/train-features-400.txt	Data/train/train-labels-400.txt
+Train result:
+	prob_spam:	0.2857142857142857
+Test result:
+	numdocs_worng: 6
+	fractions_worng: 0.023076923076923078
+Train time using:	9.678984888888891
+Test time using:	2.706541333333334
+------------------------------------------------------------
+

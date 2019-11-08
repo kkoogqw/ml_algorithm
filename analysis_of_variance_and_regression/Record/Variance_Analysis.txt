@@ -1,0 +1,14 @@
+B:\Programming-envi\py\python.exe E:/Code_Project/C_Statistic/work2/Statistic_2/Variance_Analysis.py
+----------------------- Charges <-> sex -----------------------
+              df        sum_sq       mean_sq         F    PR(>F)
+sex          1.0  6.435902e+08  6.435902e+08  4.399702  0.036133
+Residual  1336.0  1.954306e+11  1.462804e+08       NaN       NaN
+----------------------- Charges <-> sex & smoker -----------------------
+              df        sum_sq      ...                  F         PR(>F)
+sex          1.0  6.435902e+08      ...          11.524608   7.069618e-04
+smoker       1.0  1.208777e+11      ...        2164.527244  1.190490e-281
+Residual  1335.0  7.455290e+10      ...                NaN            NaN
+
+[3 rows x 5 columns]
+
+Process finished with exit code 0

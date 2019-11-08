@@ -1,0 +1,70 @@
+Euclidean distance / 0~9 label for initial center: 
+Accuracy:	 0.5893833333333334 
+loop count:	 87
+Group: 0 	k-means label: 3 	k-means accuracy for a group: 0.5330277702884875
+Group: 1 	k-means label: 0 	k-means accuracy for a group: 0.9392986698911729
+Group: 2 	k-means label: 4 	k-means accuracy for a group: 0.42651458489154825
+Group: 3 	k-means label: 1 	k-means accuracy for a group: 0.6573190135242641
+Group: 4 	k-means label: 7 	k-means accuracy for a group: 0.34401799522001963
+Group: 5 	k-means label: 2 	k-means accuracy for a group: 0.9182905225863596
+Group: 6 	k-means label: 8 	k-means accuracy for a group: 0.6320892791803878
+Group: 7 	k-means label: 6 	k-means accuracy for a group: 0.8800405268490374
+Group: 8 	k-means label: 7 	k-means accuracy for a group: 0.4291784702549575
+Group: 9 	k-means label: 0 	k-means accuracy for a group: 0.32517707662588535
+==============================================================================
+Euclidean distance / Random for initial center: 
+Accuracy:	 0.5770833333333334 
+loop count:	 65
+Group: 0 	k-means label: 1 	k-means accuracy for a group: 0.5621223564954683
+Group: 1 	k-means label: 8 	k-means accuracy for a group: 0.43947331162395586
+Group: 2 	k-means label: 2 	k-means accuracy for a group: 0.9044228694714131
+Group: 3 	k-means label: 0 	k-means accuracy for a group: 0.9398874145556896
+Group: 4 	k-means label: 4 	k-means accuracy for a group: 0.4039881831610044
+Group: 5 	k-means label: 6 	k-means accuracy for a group: 0.8506577728367611
+Group: 6 	k-means label: 9 	k-means accuracy for a group: 0.3416217709628402
+Group: 7 	k-means label: 1 	k-means accuracy for a group: 0.6753364859949073
+Group: 8 	k-means label: 3 	k-means accuracy for a group: 0.4990373507893724
+Group: 9 	k-means label: 7 	k-means accuracy for a group: 0.42205948288746076
+==============================================================================
+Euclidean distance / First 10 samples for initial center: 
+Accuracy:	 0.5771 
+loop count:	 89
+Group: 0 	k-means label: 3 	k-means accuracy for a group: 0.4990373507893724
+Group: 1 	k-means label: 0 	k-means accuracy for a group: 0.9398994974874372
+Group: 2 	k-means label: 4 	k-means accuracy for a group: 0.4039881831610044
+Group: 3 	k-means label: 1 	k-means accuracy for a group: 0.5620162356050595
+Group: 4 	k-means label: 9 	k-means accuracy for a group: 0.34166896932854385
+Group: 5 	k-means label: 2 	k-means accuracy for a group: 0.9044228694714131
+Group: 6 	k-means label: 6 	k-means accuracy for a group: 0.8509731232622799
+Group: 7 	k-means label: 8 	k-means accuracy for a group: 0.43934890304317054
+Group: 8 	k-means label: 1 	k-means accuracy for a group: 0.6753364859949073
+Group: 9 	k-means label: 7 	k-means accuracy for a group: 0.42212257100149475
+==============================================================================
+Manhattan distance / 0~9 label for initial center: 
+Accuracy:	 0.5139333333333334 
+loop count:	 129
+Group: 0 	k-means label: 3 	k-means accuracy for a group: 0.5683547054988046
+Group: 1 	k-means label: 0 	k-means accuracy for a group: 0.953922315308454
+Group: 2 	k-means label: 6 	k-means accuracy for a group: 0.8591314031180401
+Group: 3 	k-means label: 1 	k-means accuracy for a group: 0.36334161893439965
+Group: 4 	k-means label: 4 	k-means accuracy for a group: 0.371241626421561
+Group: 5 	k-means label: 2 	k-means accuracy for a group: 0.9597806215722121
+Group: 6 	k-means label: 8 	k-means accuracy for a group: 0.5066697870348701
+Group: 7 	k-means label: 6 	k-means accuracy for a group: 0.7081038552321007
+Group: 8 	k-means label: 7 	k-means accuracy for a group: 0.38065732758620685
+Group: 9 	k-means label: 0 	k-means accuracy for a group: 0.8629603399433428
+==============================================================================
+Chebyshev distance / 0~9 label for initial center: 
+Accuracy:	 0.3231833333333334 
+loop count:	 149
+Group: 0 	k-means label: 9 	k-means accuracy for a group: 0.3867120954003407
+Group: 1 	k-means label: 9 	k-means accuracy for a group: 0.6467391304347826
+Group: 2 	k-means label: 4 	k-means accuracy for a group: 0.24889735364875698
+Group: 3 	k-means label: 6 	k-means accuracy for a group: 0.3160789001793186
+Group: 4 	k-means label: 9 	k-means accuracy for a group: 0.45839048925468684
+Group: 5 	k-means label: 3 	k-means accuracy for a group: 0.34681341182492964
+Group: 6 	k-means label: 1 	k-means accuracy for a group: 0.1888272982506659
+Group: 7 	k-means label: 1 	k-means accuracy for a group: 1.0
+Group: 8 	k-means label: 7 	k-means accuracy for a group: 0.5784860557768925
+Group: 9 	k-means label: 7 	k-means accuracy for a group: 0.992553983618764
+==============================================================================

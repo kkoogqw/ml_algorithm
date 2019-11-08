@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dde6d2e-a97f-41b1-a140-b1c0dda7d415" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/k_means$pytest_in_test_read_py.coverage" NAME="pytest in test_read.py Coverage Results" MODIFIED="1544977217356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/k_means$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1544977258990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/k_means$pytest_in_test_kmeans_py.coverage" NAME="pytest in test_kmeans.py Coverage Results" MODIFIED="1544975174271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/k_means.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2898">
+              <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MNIST_image</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testSet.txt" />
+        <option value="$PROJECT_DIR$/test_kmeans.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test_read.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1051" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="k-means" type="b2602c69:ProjectViewProjectNode" />
+              <item name="k-means" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.k_means">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="k-means" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="k_means" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="k-means" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k_means.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_kmeans.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="k-means" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_kmeans.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_read.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="k-means" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_read.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.k_means" />
+        <item itemvalue="Python tests.pytest in test_read.py" />
+        <item itemvalue="Python tests.pytest in test_kmeans.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dde6d2e-a97f-41b1-a140-b1c0dda7d415" name="Default Changelist" comment="" />
+      <created>1544011314157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544011314157</updated>
+      <workItem from="1544011315424" duration="625000" />
+      <workItem from="1544023009073" duration="40000" />
+      <workItem from="1544616079312" duration="666000" />
+      <workItem from="1544626542681" duration="753000" />
+      <workItem from="1544698803893" duration="5787000" />
+      <workItem from="1544714626415" duration="11000" />
+      <workItem from="1544789834616" duration="7291000" />
+      <workItem from="1544838592493" duration="14000" />
+      <workItem from="1544839800957" duration="4445000" />
+      <workItem from="1544859115919" duration="2469000" />
+      <workItem from="1544866079389" duration="19934000" />
+      <workItem from="1544933850022" duration="4330000" />
+      <workItem from="1544962995526" duration="6790000" />
+      <workItem from="1544974884180" duration="976000" />
+      <workItem from="1544977202304" duration="86000" />
+      <workItem from="1545273439644" duration="427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 38m 40s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 39m 06s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 39m 18s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 39m 47s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 42m 35s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 45m 57s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_kmeans_py - 2018.12.16 at 23h 46m 19s.xml">
+      <configuration name="pytest in test_kmeans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 46m 53s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.16 at 23h 47m 38s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_read_py - 2018.12.17 at 00h 20m 19s.xml">
+      <configuration name="pytest in test_read.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54644000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1691" height="917" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07612032" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32834506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40580985" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32922536" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5378521" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="20" y="26" width="1610" height="848" id="SciView" order="3" show_stripe_button="false" sideWeight="0.91851854" type="FLOATING" weight="0.48537478" />
+      <window_info anchor="right" x="0" y="0" width="372" height="717" id="Documentation" order="4" sideWeight="0.08148148" side_tool="true" weight="0.20012277" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.18845917" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="new_centroid" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testSet.txt" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/test_read.py" />
+    <entry file="file://$PROJECT_DIR$/test_kmeans.py" />
+    <entry file="file://$PROJECT_DIR$/k_means.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2898">
+          <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
